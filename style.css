@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/abstract-flat-colorful-geometric-shapes-background_144290-24.jpg?size=626&ext=jpg");
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border: 10px yellow ridge;
+    border-radius: 40px;
+    box-shadow: 10px 10px 20px white;
+    margin-top: 50px;
+}
